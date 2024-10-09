@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Wordpress demosite</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://simonp92.github.io/demosite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://simonp92.github.io/demosite/</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Oct 2024 19:10:47 +0000</lastBuildDate>
 	<language>da-DK</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Hej verden!</title>
-		<link>/2024/10/09/hej-verden/</link>
-					<comments>/2024/10/09/hej-verden/#comments</comments>
+		<link>https://simonp92.github.io/demosite/2024/10/09/hej-verden/</link>
+					<comments>https://simonp92.github.io/demosite/2024/10/09/hej-verden/#comments</comments>
 		
 		<dc:creator><![CDATA[solkongen]]></dc:creator>
 		<pubDate>Wed, 09 Oct 2024 19:10:47 +0000</pubDate>
 				<category><![CDATA[Ikke-kategoriseret]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://simonp92.github.io/demosite/?p=1</guid>
 
 					<description><![CDATA[Velkommen til WordPress. Dette er dit første indlæg. Rediger eller slet det, og begynd herefter med at skrive!]]></description>
 										<content:encoded><![CDATA[
 <p>Velkommen til WordPress. Dette er dit første indlæg. Rediger eller slet det, og begynd herefter med at skrive!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/10/09/hej-verden/feed/</wfw:commentRss>
+					<wfw:commentRss>https://simonp92.github.io/demosite/2024/10/09/hej-verden/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
